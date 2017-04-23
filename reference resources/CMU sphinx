@@ -1,0 +1,9 @@
+1) Downloaded sphinxbase 5 prealpha
+2) Installed bison
+3) Installed swig
+4) Installed sphinxbase as per included instructions
+5) Installed sphinxtrain
+6) Installed pocketsphinx
+7) Installed pocketsphinx-python
+8) Installed python-pyaudio
+9) Installed python3-pyaudio

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 21 Apr 2017 08:34:13 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Paris shooting: Gunman was 'focus of anti-terror' probe]]></title>
+            <description><![CDATA[The gunman who killed a policeman had earlier been seen as a potential Islamist radical, media say.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39663300</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39663300</guid>
+            <pubDate>Fri, 21 Apr 2017 08:25:51 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/1781A/production/_95728269_mediaitem95728268.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ugo Ehiogu: Former England defender dies after suffering cardiac arrest]]></title>
+            <description><![CDATA[Former England and Aston Villa defender Ugo Ehiogu dies aged 44 after suffering a cardiac arrest at Tottenham's training centre on Thursday.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/39664839</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/39664839</guid>
+            <pubDate>Fri, 21 Apr 2017 08:16:07 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/0D4B/production/_95730430_gettyimagd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Borussia Dortmund bombs: 'Speculator' charged with bus attack]]></title>
+            <description><![CDATA[A 28-year-old allegedly attacked the bus, injuring one footballer, to earn from falling share prices.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39664212</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39664212</guid>
+            <pubDate>Fri, 21 Apr 2017 08:31:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1367C/production/_95648497_polizei.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Probate fees: Planned increase scrapped ahead of election]]></title>
+            <description><![CDATA[The snap election means the controversial legislation cannot go through in time, ministers say.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39663204</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39663204</guid>
+            <pubDate>Fri, 21 Apr 2017 00:19:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4221/production/_94892961_3yhz047a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arkansas executes Ledell Lee in first death penalty use in 12 years]]></title>
+            <description><![CDATA[A US Supreme Court ruling cleared the way for the first in the state's planned spate of executions.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39662139</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39662139</guid>
+            <pubDate>Fri, 21 Apr 2017 06:42:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F4C3/production/_95695626_p050gz1x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Would you hold a cake smash for a baby's first birthday?]]></title>
+            <description><![CDATA[Some parents spend £800 on their child's first birthday.]]></description>
+            <link>http://www.bbc.co.uk/news/education-39656299</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-39656299</guid>
+            <pubDate>Fri, 21 Apr 2017 05:03:46 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1160D/production/_95718117_p050ltnp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: Corbyn attacks Tories over 'super-sized' classes]]></title>
+            <description><![CDATA[The Tories hit back at the Labour leader, saying his comments are a "massive own goal".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39662598</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39662598</guid>
+            <pubDate>Fri, 21 Apr 2017 02:15:22 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/17A04/production/_95727769_mediaitem95727768.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Billy Monger crash: Online campaign hits £600,000]]></title>
+            <description><![CDATA[Formula One's Jenson Button is among those to donate to the campaign for F4's Billy Monger.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-leicestershire-39656580</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-leicestershire-39656580</guid>
+            <pubDate>Fri, 21 Apr 2017 04:56:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15C67/production/_95719198_hi039081068.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump on Paris shooting: 'It just never ends']]></title>
+            <description><![CDATA[The US president reacts to the fatal shooting of a police officer in central Paris.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39662219</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39662219</guid>
+            <pubDate>Thu, 20 Apr 2017 20:25:23 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9BAC/production/_95725893_p050n826.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[First prison unit for extremists to open this summer]]></title>
+            <description><![CDATA[Three purpose-built units at high-security jails will hold up to 28 of the most dangerous prisoners.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39662736</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39662736</guid>
+            <pubDate>Fri, 21 Apr 2017 01:47:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5E3F/production/_90872142_mediaitem90871450.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shops agree to limit sugary drinks sales in hospitals]]></title>
+            <description><![CDATA[The NHS in England wants to reduce sugar intake by patients and staff to reduce health problems.]]></description>
+            <link>http://www.bbc.co.uk/news/health-39660747</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39660747</guid>
+            <pubDate>Fri, 21 Apr 2017 02:12:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/119AD/production/_86090127_h1102563-fizzy_soft_drinks-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Birth of last baby orca in captivity filmed at SeaWorld]]></title>
+            <description><![CDATA[Killer whale Takara was already pregnant when the end of the breeding programme was announced.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39662544</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39662544</guid>
+            <pubDate>Thu, 20 Apr 2017 23:43:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C014/production/_95727194_p050nf59.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MH370: New analysis reiterates plane's likely location]]></title>
+            <description><![CDATA[Scientists have now conducted drift modelling of a real Boeing 777 wing part, instead of a replica.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-39663395</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-39663395</guid>
+            <pubDate>Fri, 21 Apr 2017 05:51:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6395/production/_93039452_a2c5088c-b346-4ff5-83dd-112e89fc356e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Photography Award winners]]></title>
+            <description><![CDATA[Belgian photographer Frederik Buyckx has been named the Sony World Photography Awards’ 2017 Photographer of the Year for his series of snow covered landscapes.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-39628370</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-39628370</guid>
+            <pubDate>Thu, 20 Apr 2017 23:53:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6390/production/_95688452_1351_1_2787_frederikbuyckx_.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your morning briefing for Friday 21 April]]></title>
+            <description><![CDATA[Your morning briefing for Friday 21 April]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39652681</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39652681</guid>
+            <pubDate>Fri, 21 Apr 2017 05:39:37 GMT</pubDate>
+            <media:thumbnail width="696" height="392" url="http://c.files.bbci.co.uk/1FAB/production/_95670180_bbcnewdaily.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Paris shootout and diet drinks 'alert']]></title>
+            <description><![CDATA[The Paris attack on police makes most front pages, while others lead on an alert over diet fizzy drinks.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-39662684</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-39662684</guid>
+            <pubDate>Fri, 21 Apr 2017 05:41:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/18E4/production/_95727360_index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life as a stranger in your own country]]></title>
+            <description><![CDATA[Om Emad is just one of over three million Yemenis who have been displaced from their homes since war broke out.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39656238</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39656238</guid>
+            <pubDate>Thu, 20 Apr 2017 23:59:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11398/production/_95725507_p050mzqc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7 days quiz: Where did this iceberg get stuck?]]></title>
+            <description><![CDATA[7 days quiz: Where did this iceberg get stuck?]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39659007</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39659007</guid>
+            <pubDate>Fri, 21 Apr 2017 00:00:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9742/production/_95722783_iceberg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can China's electric cars kill off petrol?]]></title>
+            <description><![CDATA[How are three big carmakers going about cracking China, the world's biggest car market?]]></description>
+            <link>http://www.bbc.co.uk/news/business-39650588</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39650588</guid>
+            <pubDate>Thu, 20 Apr 2017 23:13:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/64B5/production/_95718752_p050m7k3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff woman's Orkney-Norway trek pulling 35kg stone]]></title>
+            <description><![CDATA[From Orkney to Norway and back with a stone which is 390 million years old]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-39658788</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-39658788</guid>
+            <pubDate>Fri, 21 Apr 2017 05:10:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1B6E/production/_95722070_img_0519.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Serena Williams: How can you win a Grand Slam while pregnant?]]></title>
+            <description><![CDATA[Serena Williams won the Australian Open while pregnant - BBC Sport asks what challenges the world's best female tennis player faced.]]></description>
+            <link>http://www.bbc.co.uk/sport/tennis/39653317</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/39653317</guid>
+            <pubDate>Thu, 20 Apr 2017 13:49:08 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1397B/production/_95715208_1d6bc9f2-031b-41c0-b15e-bf83b46a7534.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Derbyshire ]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Feb 2017 09:41:12 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Chechen gay men 'flee for their lives']]></title>
+            <description><![CDATA[A Chechen man says he suffered "terrible torture" by security forces - as the Kremlin denies the claims.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39662725</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39662725</guid>
+            <pubDate>Thu, 20 Apr 2017 23:48:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/8428/production/_95723833_p050nc5c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circular runways: Engineer defends his proposal]]></title>
+            <description><![CDATA[The engineer who proposed circular runways answers critics in defence of his radical design for airports.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39643292</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39643292</guid>
+            <pubDate>Fri, 21 Apr 2017 00:29:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E5DE/production/_95164885_p04wyz52.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why is Russia so good at encouraging women into tech?]]></title>
+            <description><![CDATA[Stem subjects - science, technology, engineering, maths - have an image problem. But not in Russia.]]></description>
+            <link>http://www.bbc.co.uk/news/business-39579321</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39579321</guid>
+            <pubDate>Thu, 20 Apr 2017 23:17:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12DEA/production/_95709277_alinabezuglova.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump or Trumpism? A conservative dilemma]]></title>
+            <description><![CDATA[Fox News faces a bigger problem than sexual harassment lawsuits: how to cover the man in the White House.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39657091</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39657091</guid>
+            <pubDate>Thu, 20 Apr 2017 15:24:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AF70/production/_95721944_gettyimages-496593812.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How much does the UK spend on overseas aid?]]></title>
+            <description><![CDATA[How much is spent on foreign aid and where does it go?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39658907</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39658907</guid>
+            <pubDate>Thu, 20 Apr 2017 16:01:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/30E0/production/_95721521_gettyimages-664595880.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How an 'Australian values' debate puzzled even Australia]]></title>
+            <description><![CDATA[How the Australian PM's explanation of citizenship changes spurred internet fun, then anger.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-39650480</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-39650480</guid>
+            <pubDate>Thu, 20 Apr 2017 08:50:42 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A123/production/_95715214_gettyimages-103415882.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Have North Korea's missile tests paid off?]]></title>
+            <description><![CDATA[Pyongyang's missile programme has grown, but what do we really know about its capabilities?]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-39628223</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-39628223</guid>
+            <pubDate>Thu, 20 Apr 2017 00:17:18 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/16F1B/production/_95697939_aa65f87e-7d39-4eca-9df7-51ad13854b6f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tiger Woods has back surgery and is expected to be out for six months]]></title>
+            <description><![CDATA[Ex-world number one Tiger Woods has another operation to treat ongoing pain in his back and leg that has kept him out since February.]]></description>
+            <link>http://www.bbc.co.uk/sport/golf/39662377</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/golf/39662377</guid>
+            <pubDate>Fri, 21 Apr 2017 06:18:35 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/98B4/production/_95729093_gettyimage.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Ferrari gave Sebastian Vettel the chance to beat Lewis Hamilton]]></title>
+            <description><![CDATA[Flexing floors and fuel additives? Not a bit of it - the key to Ferrari's revival is all down to a new way of working and some very neat pieces of design.]]></description>
+            <link>http://www.bbc.co.uk/sport/formula1/39647299</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/formula1/39647299</guid>
+            <pubDate>Thu, 20 Apr 2017 22:09:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/100CE/production/_95724756_ferrari.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brianna Rollins: US Olympic champion banned for a year for missing drugs tests]]></title>
+            <description><![CDATA[Olympic champion Brianna Rollins is banned for 12 months for missing three drugs tests in 2016 under the 'whereabouts' system.]]></description>
+            <link>http://www.bbc.co.uk/sport/athletics/39664382</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/athletics/39664382</guid>
+            <pubDate>Fri, 21 Apr 2017 07:17:19 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/15240/production/_95729568_obama_rollins.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United 2-1 RSC Anderlecht aet (agg 3-2)]]></title>
+            <description><![CDATA[Marcus Rashford scores in extra time to send Manchester United through to the Europa League semi-finals at Anderlecht's expense.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/39611675</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/39611675</guid>
+            <pubDate>Thu, 20 Apr 2017 22:22:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/656A/production/_95726952_manutd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Germaine Mason: Former GB high jumper, 34, dies in Jamaica motorbike crash]]></title>
+            <description><![CDATA[Germaine Mason, an Olympic high jump silver medallist for Great Britain in 2008, dies aged 34 in a motorcycle crash, say Jamaican police.]]></description>
+            <link>http://www.bbc.co.uk/sport/athletics/39657369</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/athletics/39657369</guid>
+            <pubDate>Thu, 20 Apr 2017 20:29:50 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/7013/production/_95719682_mason.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Snooker Championship: Ronnie O'Sullivan's record 147, 20 years on]]></title>
+            <description><![CDATA[Twenty years ago, Ronnie O'Sullivan made history with the fastest ever 147 - a record nobody has come close to breaking.]]></description>
+            <link>http://www.bbc.co.uk/sport/snooker/39577334</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/snooker/39577334</guid>
+            <pubDate>Fri, 14 Apr 2017 05:08:19 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/AAE5/production/_95594734_p04zx5qv.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dawn Butler MP interviewed on Radio 4's PM]]></title>
+            <description><![CDATA[Dawn Butler was asked about her party's policies by Eddie Mair on Radio 4's PM.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39659304</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39659304</guid>
+            <pubDate>Thu, 20 Apr 2017 17:49:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/182CE/production/_95722099_p050myt1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: How do I register to vote?]]></title>
+            <description><![CDATA[Don't get left outside on polling day - beat the deadline to have your say in the general election.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39663004</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39663004</guid>
+            <pubDate>Fri, 21 Apr 2017 02:48:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/14C50/production/_95727058_p050n9n6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Election 2017: Which MPs are going and who might return?]]></title>
+            <description><![CDATA[Who is joining George Osborne in stepping down as an MP and who plans to return?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39644473</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39644473</guid>
+            <pubDate>Thu, 20 Apr 2017 20:46:40 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/3D41/production/_95718651_mps_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 13 MPs who opposed snap general election]]></title>
+            <description><![CDATA[A total of 13 MPs voted against an early general election. We look at who they are and why they said no.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39644981</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39644981</guid>
+            <pubDate>Thu, 20 Apr 2017 15:23:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4E16/production/_95709991_e1f02c92-3ca9-4522-b457-1e8b54a67e83.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: David Dimbleby to host programme]]></title>
+            <description><![CDATA[The Question Time presenter previously said 2015 would be his last election programme for the BBC.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39657843</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39657843</guid>
+            <pubDate>Thu, 20 Apr 2017 19:12:04 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/32D4/production/_95721031_hi026784016.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: Can parties select candidates in time?]]></title>
+            <description><![CDATA[Labour and the Tories have streamlined their procedures and are selecting many candidates centrally.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39658426</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39658426</guid>
+            <pubDate>Thu, 20 Apr 2017 20:07:46 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/1D62/production/_95722570_mediaitem95722569.jpg"/>
+        </item>
+    </channel>
+</rss>
