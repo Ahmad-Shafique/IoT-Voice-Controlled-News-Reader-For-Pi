@@ -1,0 +1,5 @@
+1) pip install SpeechRecognition
+2) pip install --upgrade pyinstaller
+3) pip install SpeechRecognition
+4) pip3 install SpeechRecognition
+5) apt-get install portaudio19-dev

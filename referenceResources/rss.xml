@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 23 Apr 2017 11:54:06 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[General election 2017: Corbyn says Labour nuclear policy still 'under discussion']]></title>
+            <description><![CDATA[Labour says Trident policy to be decided, but "all aspects" of defence up for review if elected.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39683989</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39683989</guid>
+            <pubDate>Sun, 23 Apr 2017 11:52:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6093/production/_90432742_034114690-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: Tories to pledge energy bill cap]]></title>
+            <description><![CDATA[They say price limits would be flexible and consumers would pay less if oil prices dropped.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39685106</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39685106</guid>
+            <pubDate>Sun, 23 Apr 2017 11:53:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/140F/production/_95753150_mediaitem95753149.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rail royalty Flying Scotsman meets modern era trains]]></title>
+            <description><![CDATA[Flying Scotsman travelled beside a Virgin Trains HST, InterCity 225 and new Azuma in a unique event.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-39684092</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-39684092</guid>
+            <pubDate>Sun, 23 Apr 2017 08:47:31 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/155DB/production/_95751578_pa-31029950.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chorlton-cum-Hardy man killed during car theft]]></title>
+            <description><![CDATA[Michael Samwell is believed to have been run over while trying to stop his Audi S3 from being taken.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-39684850</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-39684850</guid>
+            <pubDate>Sun, 23 Apr 2017 10:38:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1445B/production/_95753038_cartheftdeathjobo89jpg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb found in Ardoyne designed to kill police officers]]></title>
+            <description><![CDATA[Police say bomb left close to primary school in north Belfast could have killed or seriously injured.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-northern-ireland-39679602</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-39679602</guid>
+            <pubDate>Sun, 23 Apr 2017 11:49:41 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/5E47/production/_95753142_hcbomb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: Women's Equality Party leader to challenge MP Philip Davies]]></title>
+            <description><![CDATA[Sophie Walker accuses Philip Davies of misogyny but he calls her plans "extreme political correctness".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39683982</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39683982</guid>
+            <pubDate>Sun, 23 Apr 2017 09:10:06 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/12B65/production/_92654667_p04hwx2y.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal send-off for London Marathon runners]]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge were joined by Prince Harry to press the red button to start the 26.2-mile race.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-39684236</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-39684236</guid>
+            <pubDate>Sun, 23 Apr 2017 11:14:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E623/production/_95751985_mediaitem95751984.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: UKIP manifesto to pledge a burka ban]]></title>
+            <description><![CDATA[The party could also undertake not to stand against pro-Brexit MPs, its leader Paul Nuttall says.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39682939</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39682939</guid>
+            <pubDate>Sun, 23 Apr 2017 11:14:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/138A3/production/_95753008_mediaitem95753007.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dartford couple whose baby died suffer theft blow]]></title>
+            <description><![CDATA[A blanket, a toy dinosaur and a mirror were among the items in the couple's car, which was stolen.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-kent-39684212</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-kent-39684212</guid>
+            <pubDate>Sun, 23 Apr 2017 09:31:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/246A/production/_86422390_gettyimages-463574202.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lockerbie bombing: Megrahi family to launch appeal bid]]></title>
+            <description><![CDATA[Files relating to the conviction of the Lockerbie bomber will be handed to the case review commission.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-39684926</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-39684926</guid>
+            <pubDate>Sun, 23 Apr 2017 10:44:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16E1D/production/_95752739_hi009064571.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parents' mobile use harms family life, say secondary pupils]]></title>
+            <description><![CDATA[More than a third of pupils have felt the need to ask adults to put down their phones, suggests a poll.]]></description>
+            <link>http://www.bbc.co.uk/news/education-39666863</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/education-39666863</guid>
+            <pubDate>Sun, 23 Apr 2017 10:27:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/83E3/production/_95736733_mobilephonedadignoresgirl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Running, rescuing, romping]]></title>
+            <description><![CDATA[Some of the week's more heartwarming stories]]></description>
+            <link>http://www.bbc.co.uk/news/world-39669968</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-39669968</guid>
+            <pubDate>Sun, 23 Apr 2017 02:46:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C5D3/production/_95734605_p050qn6q.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Royal family members get the race underway]]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge and Prince Harry gave London Marathon runners a royal send-off.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39685196</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39685196</guid>
+            <pubDate>Sun, 23 Apr 2017 10:39:39 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/14E79/production/_95752658_p050wq1g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[War-time film shows secret chemical weapons site]]></title>
+            <description><![CDATA[Tunnels at a former top secret World War Two chemical weapons site in Flintshire are being formally opened to the public on Saturday.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-39674425</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-39674425</guid>
+            <pubDate>Sat, 22 Apr 2017 06:13:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C1CE/production/_95741694_p050s70r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The village that made itself hedgehog friendly]]></title>
+            <description><![CDATA[Hedgehogs, nursed back to health in an animal sanctuary, are released in the village of Burton Fleming, East Yorkshire.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-39678329</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-39678329</guid>
+            <pubDate>Sat, 22 Apr 2017 09:20:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1164C/production/_95744217_p050tc8y.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince William: 'I text Radio 1 for shoutouts']]></title>
+            <description><![CDATA[The Duke and Duchess of Cambridge surprise Radio 1's Adele Roberts ahead of her marathon run.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39672573</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39672573</guid>
+            <pubDate>Fri, 21 Apr 2017 15:23:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1202D/production/_95737737_p050rdpl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cleethorpes car crash captured on CCTV]]></title>
+            <description><![CDATA[Two people are arrested after a car crashes at speed into parked vehicles in a street in Cleethorpes.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-humber-39664987</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-humber-39664987</guid>
+            <pubDate>Fri, 21 Apr 2017 09:30:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DDE3/production/_95730865_p050q13g.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General election 2017: How do I register to vote?]]></title>
+            <description><![CDATA[Don't get left outside on polling day - beat the deadline to have your say in the general election.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39663004</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39663004</guid>
+            <pubDate>Fri, 21 Apr 2017 02:48:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/14C50/production/_95727058_p050n9n6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Fri, 17 Feb 2017 09:41:12 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Oldham Athletic fan, 5, gets goalkeeper trial after goalie's loan spell ends]]></title>
+            <description><![CDATA[Thomas Young was invited for a mock trial after writing to the club offering his services in goal.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-39683804</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-39683804</guid>
+            <pubDate>Sun, 23 Apr 2017 11:31:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11445/production/_95752707_thomasyounggoalsmattyoung2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Farewell Claudio Ranieri: Foxes boss's Leicester home goes on sale]]></title>
+            <description><![CDATA[The former Foxes boss is selling the home he lived in while masterminding his side's unlikely title win.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-leicestershire-39684006</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-leicestershire-39684006</guid>
+            <pubDate>Sun, 23 Apr 2017 09:48:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5EA1/production/_95752242_ranieri3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: Tories increase poll lead - or do they?]]></title>
+            <description><![CDATA[The Sunday paper polls suggest the Conservatives may or may not have a commanding lead over Labour.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-the-papers-39682374</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-the-papers-39682374</guid>
+            <pubDate>Sun, 23 Apr 2017 06:44:06 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/105B2/production/_95749966_23index.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The blind cheerleader]]></title>
+            <description><![CDATA[Steph is an international cheerleader. She’s also blind.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39667174</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39667174</guid>
+            <pubDate>Sat, 22 Apr 2017 23:15:53 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13500/production/_95740197_p050rqv6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wealthy parents]]></title>
+            <description><![CDATA[How wealthy your parents are is likely to matter more for young adults than it did for older generations.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39519844</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39519844</guid>
+            <pubDate>Sun, 23 Apr 2017 00:51:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C250/production/_93044794_handingoverkeysthinkstock.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Set me free]]></title>
+            <description><![CDATA[America is "a beautiful but dangerous place," says Ray Davies, as he discusses his new album.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39665367</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39665367</guid>
+            <pubDate>Sat, 22 Apr 2017 23:50:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/CC31/production/_95737225_a1468704-c6bc-484e-9271-27227ad88880.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Battleground seats]]></title>
+            <description><![CDATA[Where do the Conservatives, Labour and the Lib Dems have to fight hardest to win the general election?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39655379</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39655379</guid>
+            <pubDate>Sun, 23 Apr 2017 04:25:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18DB/production/_95736360_election_2017_marginals_promo976.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Signing up]]></title>
+            <description><![CDATA[Government figures show it is young people dominating registrations ahead of the election on 8 June.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39678859</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39678859</guid>
+            <pubDate>Sat, 22 Apr 2017 15:00:39 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/EC44/production/_95748406_p050n9n6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Everything's on fire']]></title>
+            <description><![CDATA[News of a snap poll means many late nights and cancelled weekends for some over the coming weeks.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-39660686</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39660686</guid>
+            <pubDate>Sat, 22 Apr 2017 08:44:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1803C/production/_95746389_polscomp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I can never leave them']]></title>
+            <description><![CDATA[One FGM survivor explains her struggle to protect her daughters from the practice.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-wales-39282927</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-39282927</guid>
+            <pubDate>Sat, 22 Apr 2017 06:11:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D7E0/production/_95446255_img_6710.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global revolutions]]></title>
+            <description><![CDATA[Leigh Timmis left Derby in 2010 to cycle round the world. He returns today, several years late.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-39637967</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39637967</guid>
+            <pubDate>Sat, 22 Apr 2017 01:12:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/808F/production/_95711923_70000milesandcounting.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Best seller]]></title>
+            <description><![CDATA[New Beacon Books is Britain's oldest black bookshop.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-39667172</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-39667172</guid>
+            <pubDate>Fri, 21 Apr 2017 23:35:52 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1CAF/production/_95734370_p050qlpj.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The oatcake]]></title>
+            <description><![CDATA[How wide is the appeal of Staffordshire oatcakes? BBC News asked readers for their food stories.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-39582338</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-39582338</guid>
+            <pubDate>Fri, 21 Apr 2017 23:08:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10378/production/_95742466_dsc_0088.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ugo Ehiogu remembered]]></title>
+            <description><![CDATA[Ugo Ehiogu, who has died at the age of 44, enjoyed a fine career and seemed destined for more success as a coach, writes Phil McNulty.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/39666072</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/39666072</guid>
+            <pubDate>Fri, 21 Apr 2017 12:21:50 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/0D4B/production/_95730430_gettyimagd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Icing on the cake]]></title>
+            <description><![CDATA[Photographing your baby smashing a cake is increasingly popular - but should it cost £800?]]></description>
+            <link>http://www.bbc.co.uk/news/39664629</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/39664629</guid>
+            <pubDate>Fri, 21 Apr 2017 23:31:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F554/production/_95740826_91d720f9-b19f-46a5-b46e-546ae715a80b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Night night]]></title>
+            <description><![CDATA[The eight-week entertainment show didn't get off to the strongest start but after ending more positively does it just need a second chance?]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39592206</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39592206</guid>
+            <pubDate>Sat, 22 Apr 2017 00:49:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/147C6/production/_95701938_dermot-davina-comp.jpg"/>
+        </item>
+    </channel>
+</rss>
