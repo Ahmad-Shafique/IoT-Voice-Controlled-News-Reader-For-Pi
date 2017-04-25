@@ -24,10 +24,10 @@ def removeDtdChars(var):
 
 
 # Open XML document using minidom parser
-url_str = 'http://feeds.bbci.co.uk/news/uk/rss.xml?edition=uk'
+url_str = 'http://rss.cnn.com/rss/edition.rss'
 
 xml_str = urllib2.urlopen(url_str).read()
-#soup = BeautifulSoup(xml_str)
+soup = BeautifulSoup(xml_str)
 
 
 titles =re.findall(r"<title>.*(A\[.*]]).*<\/title>",xml_str)
@@ -46,7 +46,7 @@ for i in range(0,l):
 #	print re.match(r"A\[.*]]",title)
 	
 	
-#print soup.prettify()
+print soup.prettify()
 #titles = soup.find_all('title')
 #for title in titles:
 #	print innerHTML(title)
