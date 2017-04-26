@@ -7,6 +7,5 @@ content = [x.strip() for x in content]
 
 for x in content:
 	var = x.split(",")
-	for z in var:
-		print z 
+	print var[0].lower()
 	break
