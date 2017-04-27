@@ -1,3 +1,6 @@
 1) pip install beautifulsoup
 2) pip install beautifulsoup4
 3) pip install feedparser
+4) WIFI_INSTALL_CLI=False pip install wifi
+5) pip install python-wifi
+6) pip install wireless
