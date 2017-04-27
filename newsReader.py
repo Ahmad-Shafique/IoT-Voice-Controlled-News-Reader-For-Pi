@@ -4,6 +4,7 @@ import speech_recognition as sr
 import pyttsx
 import feedparser
 
+
 def takeUserVoiceCommandAndReturnText():
 	r = sr.Recognizer()
 	m = sr.Microphone()
