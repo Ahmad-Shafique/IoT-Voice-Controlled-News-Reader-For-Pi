@@ -4,3 +4,4 @@
 4) WIFI_INSTALL_CLI=False pip install wifi
 5) pip install python-wifi
 6) pip install wireless
+7) pip install --upgrade pip setuptools wheel

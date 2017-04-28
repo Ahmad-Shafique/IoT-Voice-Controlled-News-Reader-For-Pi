@@ -3,6 +3,18 @@
 import speech_recognition as sr
 import pyttsx
 import feedparser
+from wifi import Cell
+from wireless import Wireless
+import urllib2
+from pocketsphinx import LiveSpeech
+
+
+def internet_on():
+    try:
+        urllib2.urlopen('http://216.58.192.142', timeout=1)
+        return True
+    except urllib2.URLError as err: 
+        return False
 
 
 def takeUserVoiceCommandAndReturnText():
@@ -94,7 +106,31 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 
 
 
-readOutTheGivenString('Hello sir. Which channel would you like to listen to today ?');
+
+for phrase in LiveSpeech(): 
+	print phrase
+	break
+
+readOutTheGivenString('Hello sir. I am overwatch. I will be you news reader today.')
+
+if internet_on() == False :
+	readOutTheGivenString('Sir, I do not detect an internet connection. I need internet to function properly.')
+	readOutTheGivenString('I will read out the network names one by one. If you know the  password, press y. Otherwise press n.')
+	conn = Cell.all('wlan0')
+	for c in conn:
+		readOutTheGivenString(c.ssid)
+		response = raw_input()
+		if response=='n':
+			continue
+		elif response=='y':
+			readOutTheGivenString('Please type in the password')
+			p = raw_input('Password : ')
+			wireless = Wireless()
+			wireless.connect(ssid=c.ssid, password=p)
+			break
+
+
+readOutTheGivenString('We are online now. Which channel would you like to listen to today ?');
 userInputChannelName = takeUserVoiceCommandAndReturnText()
 #print va
 count=0

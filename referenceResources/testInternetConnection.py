@@ -7,7 +7,7 @@ def internet_on():
     except urllib2.URLError as err: 
         return False
         
-if internet_on() :
+if internet_on()==False :
 	print 'Connected to internet'
 else:
 	print 'Not connected to internet'

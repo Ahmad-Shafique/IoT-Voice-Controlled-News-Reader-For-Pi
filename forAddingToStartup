@@ -1,0 +1,4 @@
+
+nano /etc/rc.local
+
+sudo python /folder/path/here/AutomatedNewsReader/newsReader.py
