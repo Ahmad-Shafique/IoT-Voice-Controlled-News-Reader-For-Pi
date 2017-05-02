@@ -7,6 +7,7 @@ from wifi import Cell
 from wireless import Wireless
 import urllib2
 import traceback
+import time
 
 
 def internet_on():
@@ -25,14 +26,12 @@ def takeUserVoiceCommandAndReturnText2():
 		r.adjust_for_ambient_noise(source)
 	print("Set minimum energy threshold to {}".format(r.energy_threshold))
 	# obtain audio from the microphone
-
-        try:
-            with sr.Microphone() as source:
-                print("Say something!")
-                #readOutTheGivenString('Speak now:')
-                audio = r.listen(source)
-        except Exception,err:
-            print Exception,err
+	try:
+		with sr.Microphone() as source:
+			print("Say something!")
+			audio = r.listen(source)
+	except Exception,err:
+			print Exception,err
 
 
 	try:
@@ -52,7 +51,9 @@ def takeUserVoiceCommandAndReturnText2():
 
 def takeUserVoiceCommandAndReturnText():
 	r = sr.Recognizer()
+	print 'recognizer loaded'
 	m = sr.Microphone()
+	print 'microphone loaded'
 	#set threhold level
 	with m as source:
 		r.adjust_for_ambient_noise(source)
@@ -70,7 +71,9 @@ def takeUserVoiceCommandAndReturnText():
 
 	try:
             if internet_on():
+            	print 'going to take input'
                 var = r.recognize_google(audio)
+                print 'awaited for google response'
 
             else:
                 print 'Unable to process online!'
@@ -155,7 +158,9 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 		userInput = takeUserVoiceCommandAndReturnText2()
 
 		if userInput == 'exit':
-                    return
+				    return
+		elif userInput=='skip':
+					continue
 		else:
 			if d['entries'][i]['description'] is None:
 				readOutTheGivenString('Sorry, No description available.');
@@ -210,7 +215,7 @@ def main():
                     if userInputChannelName=='BBC' or userInputChannelName=='CNN' or userInputChannelName=='BD NEWS 24':
 						break
 		if userInputChannelName=='exit' or userInputChannelName=='EXIT':
-			sys.exit()
+			return
 
     readOutTheGivenString('You have selected '+userInputChannelName);
 
@@ -233,7 +238,7 @@ def main():
                         #readOutTheGivenString('You are a fucking waste of my time. Speak the category again, asshole');
 			userInputCategoryName = takeUserVoiceCommandAndReturnText()
 			#userInputCategoryName = raw_input()
-			if userInputCategoryName!='' or userInputCategoryName=='BBC' or userInputCategoryName=='CNN' or userInputCategoryName=='BD NEWS 24':
+			if userInputCategoryName!='' or userInputCategoryName=='BBC' or userInputCategoryName=='CNN' or userInputCategoryName=='BD News 24':
 				break
 	elif userInputCategoryName=='no' or userInputCategoryName=='No' or userInputCategoryName=='NO':
 		print 'reading latest news'
@@ -256,6 +261,7 @@ def main():
 i=0
 while i==0:
     main()
+    time.sleep(2)
 
 
 
