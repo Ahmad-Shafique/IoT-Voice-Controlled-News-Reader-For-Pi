@@ -8,6 +8,7 @@ from wireless import Wireless
 import urllib2
 import traceback
 import time
+import os,sys
 
 
 def internet_on():
@@ -145,12 +146,13 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 
 		if category=='exit' or category=='EXIT':
 			readOutTheGivenString('Exiting now...')
-			sys.exit()
+			return
 
 	d = feedparser.parse(url)
 	length = len(d['entries'])
 
 	readOutTheGivenString('If you would like to know the details of any news, please say :\'Describe\'');
+	readOutTheGivenString('otherwise say : skip');
 
 	for i in range(0,length):
 		readOutTheGivenString(d['entries'][i]['title'])
@@ -212,10 +214,10 @@ def main():
 		userInputChannelName = takeUserVoiceCommandAndReturnText()
 		#userInputChannelName = raw_input()
 		if userInputChannelName!='':
-                    if userInputChannelName=='BBC' or userInputChannelName=='CNN' or userInputChannelName=='BD NEWS 24':
+                    if userInputChannelName=='BBC' or userInputChannelName=='CNN' or userInputChannelName=='BD News 24':
 						break
 		if userInputChannelName=='exit' or userInputChannelName=='EXIT':
-			return
+			sys.exit()
 
     readOutTheGivenString('You have selected '+userInputChannelName);
 
@@ -259,9 +261,16 @@ def main():
 #quit the program
 
 i=0
+waitloop=0
 while i==0:
-    main()
-    time.sleep(2)
+	while waitloop ==0:
+		if waitloop==0:
+			command = takeUserVoiceCommandAndReturnText2()
+		if command == 'start':
+			waitloop = 1
+			break
+	main()
+	time.sleep(10)
 
 
 
