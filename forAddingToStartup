@@ -2,3 +2,31 @@
 nano /etc/rc.local
 
 sudo python /folder/path/here/AutomatedNewsReader/newsReader.py
+
+
+
+
+
+
+
+sudo nano /lib/systemd/system/myscript.service
+
+
+[Unit]
+Description=My Script Service
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python /home/pi/myscript.py
+
+[Install]
+WantedBy=multi-user.target
+
+
+ExecStart=/usr/bin/python /home/pi/myscript.py > /home/pi/myscript.log 2>&1
+
+sudo chmod 644 /lib/systemd/system/myscript.service
+
+sudo systemctl daemon-reload
+ sudo systemctl enable myscript.service
