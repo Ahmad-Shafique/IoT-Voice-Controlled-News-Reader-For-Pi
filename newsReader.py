@@ -103,9 +103,9 @@ def readOutTheGivenString(string):
 
 def selectProperUrl(channelName,category):
 	if channelName == 'bbc':
-		fileName = '/home/pi/Desktop/AutomatedNewsReader/bbc'
+		fileName = '/home/sysadmin/Desktop/AutomatedNewsReader/bbc'
 	elif channelName == 'cnn':
-		fileName = '/home/pi/Desktop/AutomatedNewsReader/cnn'
+		fileName = '/home/sysadmin/Desktop/AutomatedNewsReader/cnn'
 	with open(fileName) as f:
 		content = f.readlines()
 	# you may also want to remove whitespace characters like `\n` at the end of each line
@@ -142,7 +142,7 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 
 		if category=='exit' or category=='EXIT':
 			readOutTheGivenString('Exiting now...')
-			return
+			sys.exit()
 
 	d = feedparser.parse(url)
 	length = len(d['entries'])
@@ -172,8 +172,10 @@ def main():
     readOutTheGivenString('Hello sir. I am overwatch. I will be you news reader today.')
 
     if internet_on() == False :
-    	readOutTheGivenString('Sir, I do not detect an internet connection. I need internet to function properly.')
-        readOutTheGivenString('I will read out the network names one by one. If you know the  password, press y. Otherwise press n.')
+    	readOutTheGivenString('Sir, I do not detect an internet connection.')
+    	readOutTheGivenString('I need internet to function properly.')
+        readOutTheGivenString('I will read out the network names one by one.')
+        readOutTheGivenString('If you know the  password, press y. Otherwise press n.')
 	conn = Cell.all('wlan0')
 	for c in conn:
 		readOutTheGivenString(c.ssid)
@@ -188,7 +190,8 @@ def main():
 			break
 
 
-    readOutTheGivenString('We are online now. Which channel would you like to listen to today ?');
+    readOutTheGivenString('We are online now. ');
+    readOutTheGivenString('Which channel would you like to listen to today ?');
     #userInputChannelName = raw_input()
     userInputChannelName = takeUserVoiceCommandAndReturnText()
     #print va
@@ -197,7 +200,8 @@ def main():
     if userInputChannelName=='':
 	while count==0:
 		if skipCount!=0:
-			readOutTheGivenString('Sorry sir, I did not recognize the channel. Please speak the channel name once again.');
+			readOutTheGivenString('Sorry sir, I did not recognize the channel.');
+			readOutTheGivenString('Please speak the channel name once again.');
 		skipCount=1
         #readOutTheGivenString('Bainchod ! speak the name properly !!');
 		userInputChannelName = takeUserVoiceCommandAndReturnText()
@@ -218,12 +222,14 @@ def main():
 	readOutTheNewsAsPerUserSelection(userInputChannelName, '')
 
     if go==0:
-	readOutTheGivenString('Would you like to listen to a specific category? If so, then say the category name. Otherwise say no.');
+	readOutTheGivenString('Would you like to listen to a specific category? ');
+	readOutTheGivenString('If so, then say the category name. Otherwise say no.');
 	userInputCategoryName = takeUserVoiceCommandAndReturnText()
 	#userInputCategoryName = raw_input()
 	if userInputCategoryName=='':
 		while count==0:
-			readOutTheGivenString('Sorry sir, I did not understand. Please speak the category name once again.');
+			readOutTheGivenString('Sorry sir, I did not understand.');
+			readOutTheGivenString('Please speak the category name once again.');
                         #readOutTheGivenString('You are a fucking waste of my time. Speak the category again, asshole');
 			userInputCategoryName = takeUserVoiceCommandAndReturnText()
 			#userInputCategoryName = raw_input()

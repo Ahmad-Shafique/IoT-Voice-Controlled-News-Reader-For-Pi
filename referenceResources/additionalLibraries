@@ -6,3 +6,4 @@
 6) pip install wireless
 7) pip install --upgrade pip setuptools wheel
 8) pip install pyalsaaudio
+9) pip install --upgrade watson-developer-cloud
