@@ -5,3 +5,4 @@
 5) pip install python-wifi
 6) pip install wireless
 7) pip install --upgrade pip setuptools wheel
+8) pip install pyalsaaudio
