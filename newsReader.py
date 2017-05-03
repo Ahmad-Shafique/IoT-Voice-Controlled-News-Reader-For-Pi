@@ -186,6 +186,8 @@ def main():
         readOutTheGivenString('If you know the  password, press y. Otherwise press n.')
 	conn = Cell.all('wlan0')
 	for c in conn:
+		if internet_on():
+			break
 		readOutTheGivenString(c.ssid)
 		response = raw_input()
 		if response=='n':
@@ -262,7 +264,7 @@ def main():
 #quit the program
 
 i=0
-waitloop=0
+time.sleep(15)
 while i==0:
 	main()
 	time.sleep(10)
