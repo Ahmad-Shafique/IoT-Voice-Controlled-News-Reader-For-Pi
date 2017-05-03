@@ -140,6 +140,7 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 			break
 
 		if url == '' :
+			readOutTheGivenString('Reading Latest news from {} '.format(category))
 			readOutTheGivenString('Category not found under the given channel!')
 			readOutTheGivenString('Please speak the category name once again!')
 			category = takeUserVoiceCommandAndReturnText()
@@ -243,7 +244,7 @@ def main():
                         #readOutTheGivenString('You are a fucking waste of my time. Speak the category again, asshole');
 			userInputCategoryName = takeUserVoiceCommandAndReturnText()
 			#userInputCategoryName = raw_input()
-			if userInputCategoryName!='' or userInputCategoryName=='BBC' or userInputCategoryName=='CNN' or userInputCategoryName=='BD News 24':
+			if userInputCategoryName!='':
 				break
 	elif userInputCategoryName=='no' or userInputCategoryName=='No' or userInputCategoryName=='NO':
 		print 'reading latest news'
@@ -254,7 +255,9 @@ def main():
 #	else:
 		print 'reading {} news'.format(userInputCategoryName)
 
-	if userInputCategoryName=='no':
+	if userInputCategoryName=='exit':
+		return
+	elif userInputCategoryName=='no':
             readOutTheGivenString('Reading Latest news from {} '.format(userInputChannelName));
 	else:
             readOutTheGivenString('Reading {} news from {} '.format(userInputCategoryName,userInputChannelName));
