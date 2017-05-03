@@ -215,10 +215,12 @@ def main():
     if userInputChannelName=='':
 	while count==0:
 		if skipCount!=0:
-			readOutTheGivenString('Sorry sir, I did not recognize the channel.');
+			if userInputChannelName=='':
+				readOutTheGivenString('Sorry sir, I did not hear anything.');
+			else:
+				readOutTheGivenString('Sorry sir, I did not recognize the channel name.');
 			readOutTheGivenString('On my prompt, please speak the channel name once again.');
 		skipCount=1
-        #readOutTheGivenString('Bainchod ! speak the name properly !!');
 		userInputChannelName = takeUserVoiceCommandAndReturnText()
 		#userInputChannelName = raw_input()
 		if userInputChannelName!='':
@@ -243,9 +245,11 @@ def main():
 	#userInputCategoryName = raw_input()
 	if userInputCategoryName=='':
 		while count==0:
-			readOutTheGivenString('Sorry sir, I did not understand.');
+			if userInputCategoryName=='':
+				readOutTheGivenString('Sorry sir, I did not hear anything.');
+			else :
+				readOutTheGivenString('Sorry sir, I did not understand.');
 			readOutTheGivenString('On my prompt, please speak the category name once again.');
-                        #readOutTheGivenString('You are a fucking waste of my time. Speak the category again, asshole');
 			userInputCategoryName = takeUserVoiceCommandAndReturnText()
 			#userInputCategoryName = raw_input()
 			if userInputCategoryName!='':
