@@ -140,9 +140,13 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 			break
 
 		if url == '' :
-			readOutTheGivenString('Reading Latest news from {} '.format(category))
-			readOutTheGivenString('Category not found under the given channel!')
-			readOutTheGivenString('On my prompt, please speak the category name once again!')
+			if category=='':
+				readOutTheGivenString('I received an empty input')
+				readOutTheGivenString('on my prompt, please speak again.')
+			else:
+				readOutTheGivenString('Reading news from {} '.format(category))
+				readOutTheGivenString('Category not found under the given channel!')
+				readOutTheGivenString('On my prompt, please speak the category name once again!')
 			category = takeUserVoiceCommandAndReturnText()
 
 		if category=='exit' or category=='EXIT':
@@ -240,7 +244,7 @@ def main():
 	if userInputCategoryName=='':
 		while count==0:
 			readOutTheGivenString('Sorry sir, I did not understand.');
-			readOutTheGivenString('Please speak the category name once again.');
+			readOutTheGivenString('On my prompt, please speak the category name once again.');
                         #readOutTheGivenString('You are a fucking waste of my time. Speak the category again, asshole');
 			userInputCategoryName = takeUserVoiceCommandAndReturnText()
 			#userInputCategoryName = raw_input()
