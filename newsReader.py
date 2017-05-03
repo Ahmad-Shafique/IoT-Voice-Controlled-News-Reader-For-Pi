@@ -166,6 +166,7 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 		userInput = takeUserVoiceCommandAndReturnText2()
 
 		if userInput == 'exit':
+					readOutTheGivenString('Exiting. Goodbye sir.');
 				    return
 		elif userInput=='skip':
 					continue
@@ -264,6 +265,7 @@ def main():
 		print 'reading {} news'.format(userInputCategoryName)
 
 	if userInputCategoryName=='exit':
+		readOutTheGivenString('Exiting. Goodbye sir.');
 		return
 	elif userInputCategoryName=='no':
             readOutTheGivenString('Reading Latest news from {} '.format(userInputChannelName));
