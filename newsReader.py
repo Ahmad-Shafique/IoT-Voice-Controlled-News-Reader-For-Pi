@@ -107,9 +107,9 @@ def readOutTheGivenString(string):
 
 def selectProperUrl(channelName,category):
 	if channelName == 'bbc':
-		fileName = '/home/sysadmin/Desktop/AutomatedNewsReader/bbc'
+		fileName = '/home/pi/Desktop/AutomatedNewsReader/bbc'
 	elif channelName == 'cnn':
-		fileName = '/home/sysadmin/Desktop/AutomatedNewsReader/cnn'
+		fileName = '/home/pi/Desktop/AutomatedNewsReader/cnn'
 	with open(fileName) as f:
 		content = f.readlines()
 	# you may also want to remove whitespace characters like `\n` at the end of each line
@@ -155,6 +155,7 @@ def readOutTheNewsAsPerUserSelection(channelName, category):
 	readOutTheGivenString('otherwise say : skip');
 
 	for i in range(0,length):
+                time.sleep(1);
 		readOutTheGivenString(d['entries'][i]['title'])
 
 		userInput = takeUserVoiceCommandAndReturnText2()
@@ -263,12 +264,6 @@ def main():
 i=0
 waitloop=0
 while i==0:
-	while waitloop ==0:
-		if waitloop==0:
-			command = takeUserVoiceCommandAndReturnText2()
-		if command == 'start':
-			waitloop = 1
-			break
 	main()
 	time.sleep(10)
 
