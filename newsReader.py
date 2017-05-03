@@ -238,7 +238,7 @@ def main():
 
     if go==0:
 	readOutTheGivenString('Would you like to listen to a specific category? ');
-	readOutTheGivenString('If so, then say the category name. Otherwise say no. Speak on my prompt');
+	readOutTheGivenString('If so, then say the category name. Otherwise say no. Please speak on my prompt');
 	userInputCategoryName = takeUserVoiceCommandAndReturnText()
 	#userInputCategoryName = raw_input()
 	if userInputCategoryName=='':
